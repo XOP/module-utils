@@ -1,0 +1,27 @@
+{
+  "name": "xop-module-utils",
+  "version": "0.1.0",
+  "description": "Useful helpers (utils) to use in new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XOP/xop-module-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "js",
+    "javascript",
+    "es6",
+    "es2015",
+    "helpers"
+  ],
+  "author": "Evgeny Khoroshilov <stewiekillsloiss@gmail.com> (https://github.com/XOP)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XOP/xop-module-utils/issues"
+  },
+  "homepage": "https://github.com/XOP/xop-module-utils#readme"
+}
