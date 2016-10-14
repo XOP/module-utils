@@ -1,3 +1,8 @@
+v0.2.0:
+    date: 2016-10-14
+    changes:
+      - es6 to es5 build
+
 v0.1.0:
     date: 2015-12-02
     changes:

@@ -17,7 +17,7 @@ _tmp
 
 # Build
 *.zip
-public
+lib
 
 # Generated JSdoc
 /jsdoc
